@@ -11,7 +11,7 @@ Frontend developer
 
 ---
 
-#About me:
+# About me:
 
 - In 2020, I decided to change my profession to Frontend developer. Currently studying the necessary stack of technologies
 
