@@ -23,6 +23,7 @@ Frontend developer
 - HTML/CSS
 - JavaScript
 - React
+- GIT/Github
 
 ---
 
