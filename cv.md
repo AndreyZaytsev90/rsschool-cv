@@ -1,4 +1,5 @@
 # Andrey Zaytsev
+
 Frontend developer
 
 ---
@@ -41,6 +42,5 @@ Frontend developer
 
 # Languages
 
-- Russia - native
-- English - beginner
-
+- Russia - Native
+- English - Beginner
