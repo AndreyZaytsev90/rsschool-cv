@@ -9,6 +9,7 @@ Frontend developer
 - +79629119857
 - Russia, Moscow
 - E-mail: weddeveloper2020@gmail.com
+- LinkedIn: andreyzaytsev90
 
 ---
 
