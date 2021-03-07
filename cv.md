@@ -31,7 +31,7 @@ Frontend developer
 # Education:
 
 - 2009-2015 - Moscow Polytechnic University
-- 2021 - Online courses in RSSchool
+- 2021 - Online course in RSSchool
 
 ---
 
